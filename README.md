@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/media/a85f92e2e28b742b3e1c168b2090deb1.png" alt="gitrajmaurya" /> </p>
 <div align="center">
 # 💫 About Me:
-Hey! 👋, This is Raj<br>🔭 I’m currently working on Projects for Hacktoberfest<br>🌱 I’m currently learning Full Stack Development<br>👯 I’m looking to collaborate on Frontend Projects<br>📫 How to reach me: Text me on Twitter<br>
+Hey! 👋, This is Raj<br>🔭 I’m currently learning and building stuff.<br>🌱👯 I’m looking to collaborate on Fullstack Projects<br>📫 How to reach me: Text me on Twitter<br>
 
 
 ## 🌐 Socials:
